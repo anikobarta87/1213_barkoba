@@ -3,3 +3,4 @@ igen
 Négy lába van ?
 igen
 Kutya?
+nem
